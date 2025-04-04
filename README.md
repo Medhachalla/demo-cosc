@@ -1,0 +1,1 @@
+yay demo class fun
